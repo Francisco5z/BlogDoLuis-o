@@ -3,5 +3,6 @@ export const darkTheme = {
   colors: {
     backgroundColor: "#202124",
     textColor: "#FFF",
+    primaryColor: "#04d261",
   },
 };
