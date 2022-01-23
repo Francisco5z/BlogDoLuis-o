@@ -1,3 +1,7 @@
-## Just a Joke
+# Blog do Luisão
 
-### Criado por [Francisco5g](https://www.instagram.com/zhoufrancisco.py/?hl=pt-br]) usando React e Styled-components
+Uma pequena brincadeira, apenas!
+
+### Tecnologias usadas:
+
+- React
